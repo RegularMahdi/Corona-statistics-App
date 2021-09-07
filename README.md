@@ -10,8 +10,8 @@ https://discord.gg/YDmKpUn3Xn
 3. builtins, tkinter, requests, datetime
 
 # Installation
-Download the Source
-pip install tiknter
+1. Download the Source
+2. type in terminal pip install tkinter to install libray
 
 # Information
 1.Discord: Regular Mahdi#0458 2.Email: kingmahdi023@gmail.com
